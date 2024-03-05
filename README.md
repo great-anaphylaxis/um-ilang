@@ -1,8 +1,8 @@
-# UMIHS Maroon Ink
-The repository for the UMIHS Maroon Ink Blog.
+# UMIHS
+The repository for the UMIHS. 
 
 ## About
-A public code repository for the Maroon Ink website. Unfortunately, it is still under development, but you can view the curent state of the website here: [Maroon Ink website](https://umilang.web.app/)<br>
+A public code repository for the UM Ilang Highschool website. Unfortunately, it is still under development, but you can view the curent state of the website here: [UMIHS website](https://umilang.web.app/)<br>
 
 ## To Do's
 - [X] Permission from a teacher in UM
